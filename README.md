@@ -12,9 +12,6 @@
 -  🌈 I love to bullet journal
 - 📖 Fun fact : I read 117 books in 2021
 
-
----
-
 <div align="center">
 Connect with me 
 <br></br>
@@ -49,5 +46,7 @@ Connect with me
 </div>
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fionaberkery&theme=radical)
 
 
