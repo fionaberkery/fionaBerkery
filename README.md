@@ -6,7 +6,7 @@
 
 <br>
 
-<h4> About me 👱🏻‍ </h4>
+#### About me 👱🏻‍ 
 - 🌱 I'm currently learning everything I can about software development 
 -  💡 I'm a STEM enthusiast
 -  🌈 I love to bullet journal
