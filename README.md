@@ -6,14 +6,14 @@
 
 <br>
 
-#### About me 👱🏻‍ 
+### About me 👱🏻‍ 
 - 🌱 I'm currently learning everything I can about software development 
 -  💡 I'm a STEM enthusiast
 -  🌈 I love to bullet journal
 - 📖 Fun fact : I read 117 books in 2021
 
 <div align="center">
-  <h4> Connect with me </h4> 
+  <h3> Connect with me </h3> 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Java" alt="Java" width="20" height="20"/>](https://www.linkedin.com/in/fiona-berkery/)
 [<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/fiona_berkery)
