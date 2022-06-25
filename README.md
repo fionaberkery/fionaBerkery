@@ -24,7 +24,7 @@
 
 <div align = "center" >
 
-#### Languages and Tools
+### Languages and Tools
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
