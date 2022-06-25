@@ -47,6 +47,11 @@ Connect with me
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fionaberkery&theme=nightowl)
+
+<div style="display: flex; flex-direction: row" align="center" gap="30px">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=fionaberkery&theme=nightowl" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fionaberkery&layout=compact&theme=nightowl" />
+</div>
 
 
