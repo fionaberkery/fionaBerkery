@@ -1,4 +1,4 @@
-<img width="850" height="300" alt="banner" src="https://media.giphy.com/media/OBmHmvgJuYtPi56Weg/giphy.gif">
+<img width="850" alt="banner" src="https://media.giphy.com/media/OBmHmvgJuYtPi56Weg/giphy.gif">
 
 
 
@@ -6,7 +6,7 @@
 
 <br>
 
-About me 👱🏻‍♀️
+<h4> About me 👱🏻‍ </h4>
 - 🌱 I'm currently learning everything I can about software development 
 -  💡 I'm a STEM enthusiast
 -  🌈 I love to bullet journal
@@ -16,11 +16,10 @@ About me 👱🏻‍♀️
 ---
 
 <div align="center">
-Connect with me 📱
+Connect with me 
 <br></br>
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Java" alt="Java" width="20" height="20"/>](https://www.linkedin.com/in/fiona-berkery/)
-
 [<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/fiona_berkery)
 
 </div>
