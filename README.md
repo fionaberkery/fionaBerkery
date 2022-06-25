@@ -13,7 +13,7 @@
 - 📖 Fun fact : I read 117 books in 2021
 
 <div align="center">
-### Connect with me 
+  <h4> Connect with me </h4> 
 <br></br>
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Java" alt="Java" width="20" height="20"/>](https://www.linkedin.com/in/fiona-berkery/)
