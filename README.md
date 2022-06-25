@@ -1,4 +1,6 @@
-![alt me](https://media.giphy.com/media/OBmHmvgJuYtPi56Weg/giphy.gif)
+<img width="853" alt="banner" src="https://media.giphy.com/media/OBmHmvgJuYtPi56Weg/giphy.gif">
+
+
 
 <h3 align="center"> Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </h3>
 
