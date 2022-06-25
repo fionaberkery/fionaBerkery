@@ -46,7 +46,7 @@ Connect with me
 </div>
 
 ---
-<div align = "center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fionaberkery&theme=nightowl)
-</div>
+
 
