@@ -23,14 +23,8 @@
 --- 
 
 <h3 align="center"> Projects </h3>
+<br></br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=pet_village&theme=nightowl)](https://github.com/fionaberkery/pet_village)
-
----
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=the_retro_box&theme=nightowl)](https://github.com/fionaberkery/the_retro_box)
 
