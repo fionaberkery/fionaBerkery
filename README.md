@@ -45,9 +45,13 @@
 
 ---
 
-### Projects
+<h3 align="center"> Projects </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
+
+---
+
+---
 
 ---
 
