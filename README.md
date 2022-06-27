@@ -22,6 +22,8 @@
 
 --- 
 
+<h3 align="center"> Projects </h3>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
 
 ---
@@ -54,12 +56,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="30" height="30"/>&nbsp;
 
 </div>
-
----
-
-<h3 align="center"> Projects </h3>
-
-
 
 ---
 
