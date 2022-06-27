@@ -42,9 +42,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="30" height="30"/>&nbsp;
 
 </div>
+
 ---
 
+### Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
+
 ---
 
 <div style="display: flex; flex-direction: row" align="center" gap="30px">
