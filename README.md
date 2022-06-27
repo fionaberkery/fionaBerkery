@@ -22,7 +22,7 @@
 
 --- 
 
-<h3 align="center"> Projects </h3>
+<h3> Projects </h3>
 <br></br>
 
 <div style="display: flex; flex-direction: row" >
