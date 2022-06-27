@@ -25,7 +25,7 @@
 <h3 align="center"> Projects </h3>
 <br></br>
 
-<div style="display: flex; flex-direction: row" align="center" gap="30px">
+<div style="display: flex; flex-direction: row" gap="30px">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
 
