@@ -29,6 +29,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=pet_village&theme=nightowl)](https://github.com/fionaberkery/pet_village)
 
 ---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=the_retro_box&theme=nightowl)](https://github.com/fionaberkery/the_retro_box)
+
 ---
 
 <div align = "center" >
