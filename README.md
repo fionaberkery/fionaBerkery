@@ -27,6 +27,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
 
+<img class = "img" width="350" height = "200" alt="travelPage" src="https://user-images.githubusercontent.com/101260084/176013779-408fd056-7fe8-430a-98ee-e872491851d5.png"/>
+
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=pet_village&theme=nightowl)](https://github.com/fionaberkery/pet_village)
@@ -65,5 +67,6 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fionaberkery&layout=compact&theme=nightowl" />
 </div>
+
 
 
