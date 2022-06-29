@@ -6,14 +6,14 @@
 
 <br>
 
-### About me 👱🏻‍ 
+## About me 👱🏻‍ 
 - 🌱 I'm currently learning everything I can about software development 
 -  💡 I'm a STEM enthusiast
 -  🌈 I love to bullet journal
 - 📖 Fun fact : I read 117 books in 2021
 
 <div align="center">
-  <h3> Connect with me </h3> 
+  <h2> Connect with me </h2> 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Java" alt="Java" width="20" height="20"/>](https://www.linkedin.com/in/fiona-berkery/)
 [<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/fiona_berkery)
@@ -22,7 +22,7 @@
 
 --- 
 
-<h3 align = "center" > Projects </h3>
+<h2 align = "center" > Projects </h2>
 <br></br>
 
 <section style="display: flex; flex-direction: row" align="center" gap="30px" >
@@ -52,7 +52,7 @@
 
 <div align = "center" >
 
-### Languages and Tools
+## Languages and Tools
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
