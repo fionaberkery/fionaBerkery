@@ -34,7 +34,14 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=pet_village&theme=nightowl)](https://github.com/fionaberkery/pet_village)
+<section style="display: flex; flex-direction: row" align="center" gap="30px" >
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=pet_village&theme=nightowl)](https://github.com/fionaberkery/pet_village)
+  
+  <img width="270" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176439563-81fc76f9-bcec-4304-a709-3a0b7891f6eb.gif"/>
+  
+
+</section>
 
 ---
 <section style="display: flex; flex-direction: row" align="center" gap="30px" >
@@ -74,6 +81,7 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fionaberkery&layout=compact&theme=nightowl" />
 </div>
+
 
 
 
