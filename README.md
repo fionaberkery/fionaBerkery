@@ -38,7 +38,7 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=pet_village&theme=nightowl)](https://github.com/fionaberkery/pet_village)
   
-  <img width="270" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176439563-81fc76f9-bcec-4304-a709-3a0b7891f6eb.gif"/>
+  <img width="600" height = "280" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176439563-81fc76f9-bcec-4304-a709-3a0b7891f6eb.gif"/>
   
 
 </section>
