@@ -41,6 +41,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=the_retro_box&theme=nightowl)](https://github.com/fionaberkery/the_retro_box)
 
+<img width="350" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176413803-68b14086-a3b6-40eb-9ef2-08e247a2b54f.gif"/>
+
 ---
 
 <div align = "center" >
