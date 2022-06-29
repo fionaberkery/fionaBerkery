@@ -8,6 +8,8 @@
 -  🌈 I love to bullet journal
 - 📖 Fun fact : I read 117 books in 2021
 
+---
+
 <br></br>
 <div align="center">
   <h3> Connect with me </h3> 
@@ -17,6 +19,8 @@
 </div>
 
 <h3 align = "center" > Projects </h3>
+
+---
 
 <br></br>
 
