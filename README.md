@@ -44,6 +44,7 @@
 
 <img width="600" height = "250" alt="retroBoxGif" src="https://user-images.githubusercontent.com/101260084/176413803-68b14086-a3b6-40eb-9ef2-08e247a2b54f.gif"/>
 </section>
+
 ---
 
 <div align = "center" >
