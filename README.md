@@ -1,12 +1,10 @@
 <img width="850" alt="banner" src="https://media.giphy.com/media/OBmHmvgJuYtPi56Weg/giphy.gif">
 
+<h2 align="center"> Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </h2>
 
+<br></br>
 
-<h3 align="center"> Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </h3>
-
-<br>
-
-## About me 👱🏻‍ 
+<h2> About me 👱🏻‍ </h2> 
 - 🌱 I'm currently learning everything I can about software development 
 -  💡 I'm a STEM enthusiast
 -  🌈 I love to bullet journal
@@ -14,15 +12,17 @@
 
 <div align="center">
   <h2> Connect with me </h2> 
+  
+<br></br>
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Java" alt="Java" width="20" height="20"/>](https://www.linkedin.com/in/fiona-berkery/)
 [<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/fiona_berkery)
-
 </div>
 
---- 
+<br></br>
 
 <h2 align = "center" > Projects </h2>
+
 <br></br>
 
 <section style="display: flex; flex-direction: row" align="center" gap="30px" >
