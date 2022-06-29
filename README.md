@@ -30,9 +30,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
   <br></br>
 
-<img width="350" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176427864-6172dab2-6025-4add-ac04-d8868c7b0944.gif"/>
-<img width="350" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176428015-e3edf47f-053a-4cad-b3d2-ea6a83d88015.gif"/>
-<img width="350" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176428104-68a5bed4-16a5-4fc5-9ba0-76b5a8ab2cb2.gif"/>
+<img width="300" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176427864-6172dab2-6025-4add-ac04-d8868c7b0944.gif"/>
+<img width="300" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176428015-e3edf47f-053a-4cad-b3d2-ea6a83d88015.gif"/>
+<img width="300" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176428104-68a5bed4-16a5-4fc5-9ba0-76b5a8ab2cb2.gif"/>
   
   </section>
 
