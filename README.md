@@ -1,6 +1,6 @@
 <img width="850" alt="banner" src="https://media.giphy.com/media/OBmHmvgJuYtPi56Weg/giphy.gif">
 
-<p > Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </p>
+<h3> Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </h3>
 
 <br></br>
 
@@ -11,17 +11,13 @@
 - 📖 Fun fact : I read 117 books in 2021
 
 <div align="center">
-  <h2> Connect with me </h2> 
-  
-<br></br>
+  <h3> Connect with me </h3> 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Java" alt="Java" width="20" height="20"/>](https://www.linkedin.com/in/fiona-berkery/)
 [<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/fiona_berkery)
 </div>
 
-<br></br>
-
-<h2 align = "center" > Projects </h2>
+<h3 align = "center" > Projects </h3>
 
 <br></br>
 
@@ -52,7 +48,7 @@
 
 <div align = "center" >
 
-## Languages and Tools
+### Languages and Tools
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
