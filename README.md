@@ -28,6 +28,7 @@
 <section style="display: flex; flex-direction: row" align="center" gap="30px" >
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=chi-beas&theme=nightowl)](https://github.com/fionaberkery/chi-beas)
+  <br></br>
 
 <img width="350" height = "200" alt="virtualPet" src="https://user-images.githubusercontent.com/101260084/176013779-408fd056-7fe8-430a-98ee-e872491851d5.png"/>
   
@@ -42,7 +43,7 @@
          
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionaberkery&repo=the_retro_box&theme=nightowl)](https://github.com/fionaberkery/the_retro_box)
 
-<img width="600" height = "250" alt="retroBoxGif" src="https://user-images.githubusercontent.com/101260084/176413803-68b14086-a3b6-40eb-9ef2-08e247a2b54f.gif"/>
+<img width="650" height = "250" alt="retroBoxGif" src="https://user-images.githubusercontent.com/101260084/176413803-68b14086-a3b6-40eb-9ef2-08e247a2b54f.gif"/>
 </section>
 
 ---
