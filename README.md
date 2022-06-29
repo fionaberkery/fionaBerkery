@@ -10,7 +10,6 @@
 
 ---
 
-<br></br>
 <div align="center">
   <h3> Connect with me </h3> 
 
@@ -21,8 +20,6 @@
 <h3 align = "center" > Projects </h3>
 
 ---
-
-<br></br>
 
 <section style="display: flex; flex-direction: row" align="center" gap="30px" >
 
