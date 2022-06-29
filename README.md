@@ -17,9 +17,9 @@
 [<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/fiona_berkery)
 </div>
 
-<h3 align = "center" > Projects </h3>
-
 ---
+
+<h3 align = "center" > Projects </h3>
 
 <section style="display: flex; flex-direction: row" align="center" gap="30px" >
 
