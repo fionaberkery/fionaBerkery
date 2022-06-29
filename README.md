@@ -1,10 +1,10 @@
 <img width="850" alt="banner" src="https://media.giphy.com/media/OBmHmvgJuYtPi56Weg/giphy.gif">
 
-<h2 align="center"> Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </h2>
+<p > Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </p>
 
 <br></br>
 
-<h2> About me 👱🏻‍ </h2> 
+### About me 👱🏻‍  
 - 🌱 I'm currently learning everything I can about software development 
 -  💡 I'm a STEM enthusiast
 -  🌈 I love to bullet journal
