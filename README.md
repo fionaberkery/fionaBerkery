@@ -2,14 +2,13 @@
 
 <h3> Hi there 👋🏻 I'm Fiona, a software developer from Edinbugh </h3>
 
-<br></br>
-
 ### About me 👱🏻‍  
 - 🌱 I'm currently learning everything I can about software development 
 -  💡 I'm a STEM enthusiast
 -  🌈 I love to bullet journal
 - 📖 Fun fact : I read 117 books in 2021
 
+<br></br>
 <div align="center">
   <h3> Connect with me </h3> 
 
